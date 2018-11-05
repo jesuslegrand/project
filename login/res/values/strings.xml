@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Login</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    
+    <string name="tittle_fragment">Inicio de Sesión</string>
+    <string name="tittle_user">Usuario: </string>
+    <string name="tittle_pwd">Contraseña: </string>
+    <string name="tittle_button">Iniciar Sesión</string>
+
+
+</resources>
